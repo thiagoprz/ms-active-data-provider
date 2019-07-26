@@ -8,4 +8,6 @@ Installation and Usage
 Basically you just need to download this package and put MSActiveDataProvider in the application.components folder (by default: protected/components). 
 After that you may use it in any CModel based class, for instance replacing any call of CActiveDataProvider for MSActiveDataProvider.
 
-
+Example
+--
+You can check the [User model sample](/example/User.php).
